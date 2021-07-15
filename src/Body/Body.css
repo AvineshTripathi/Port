@@ -1,0 +1,49 @@
+.body_profile_start {
+    height: 45rem;
+}
+
+.profile_line {
+    padding-top:16rem;
+    display: flex;
+    padding-left: 15rem;
+    border: solid;
+}
+
+.profile_line img {
+    height: 9cm;
+    width: 8cm;
+    border-radius: 1cm;
+}
+
+.profile_line_content {
+    margin-left: 23rem;
+    border: solid;
+}
+
+.color_div {
+    background-color: #f4f4ef;
+    padding-top: 6rem;
+}
+
+
+.about_div {
+    background-color: white;
+    box-shadow: 0px 0px 10px 4px rgb(212, 212, 212);
+    margin-left: 12rem;
+    border-radius: 2rem;
+    height: 30rem;
+    width: 30cm;
+
+}
+
+.expbox_div {
+    margin-top: 8rem;
+}
+
+.pro_div {
+    margin-top: 8rem;
+}
+
+.socialbox_div {
+    margin-top: 7rem;
+}

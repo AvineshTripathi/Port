@@ -1,0 +1,39 @@
+.main_box{
+    border: solid;
+    height: 38rem;
+}
+
+
+.exp_box {
+    display: flex;
+    margin-top: 6rem;
+    padding-left: 23rem;
+    border: solid;
+
+}
+.exp_box1 {
+    background-color: white;
+    box-shadow: 8px 14px 38px rgba(39,44,49,.06), 1px 3px 8px rgba(39,44,49,.03);
+    border-radius: 0.8cm;
+    transition: all .3s ease;
+    height: 30rem;
+    width: 18rem;
+}
+
+.exp_box1:hover {
+    transform: translate3D(0,-1px,0) scale(1.03);
+}
+
+.exp_box2 {
+    background-color: white;
+    box-shadow: 8px 14px 38px rgba(39,44,49,.06), 1px 3px 8px rgba(39,44,49,.03);
+    margin-left: 8rem;
+    transition: all .3s ease;
+    border-radius: 0.8cm;
+    height: 30rem;
+    width: 18rem;
+}
+
+.exp_box2:hover {
+    transform: translate3D(0,-1px,0) scale(1.03);
+}
